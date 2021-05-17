@@ -1,0 +1,17 @@
+
+{
+  "Parameters": {
+    "AssetPS3Bucket": {
+      "Type": "String",
+      "Description": "S3 bucket for asset \"\""
+    },
+    "AssetPS3VersionKey": {
+      "Type": "String",
+      "Description": "S3 key for asset version \"\""
+    },
+    "AssetPArtifactHash": {
+      "Type": "String",
+      "Description": "Artifact hash for asset \"\""
+    }
+  }
+}
